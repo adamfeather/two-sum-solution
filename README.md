@@ -1,5 +1,5 @@
 # two-sum-solution
-Solution to a coding interview question where I needed to locate the instances of two numbers in an integer array which summed to a specified number.
+Solution to a coding interview question where I needed to locate the pairs of numbers in an integer array whose sum was a specified number.
 
 __Constraints__
 - No LINQ
